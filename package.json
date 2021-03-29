@@ -1,0 +1,29 @@
+{
+  "name": "airhorn-bot",
+  "version": "1.0.0",
+  "description": "The only bot for Discord you'll ever need",
+  "main": "airhorn.js",
+  "scripts": {
+    "test": "airhorn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TastyGuava/airhorn-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "app"
+  ],
+  "author": "Fahim Dhali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TastyGuava/airhorn-bot/issues"
+  },
+  "homepage": "https://github.com/TastyGuava/airhorn-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ffmpeg": "0.0.4",
+    "fs": "0.0.1-security"
+  }
+}
